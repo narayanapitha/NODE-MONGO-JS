@@ -1,0 +1,27 @@
+{ 
+    "_id" : ObjectId("591aeaa21253681b54ecb6c6"), 
+    "username" : "narayana123"
+}
+{ 
+    "_id" : ObjectId("591aeb2a1253681b54ecb6ca"), 
+    "username" : "narayana", 
+    "emailaddress" : "narayana@gmail.com", 
+    "password" : "$2a$10$syl.6LHSBWNXAcb6ItWum.GmdubW02MzBK4ViSeJxZw7ijr62hwRe", 
+    "role" : "1", 
+    "firstname" : "Lakshmi", 
+    "lastname" : "narayana", 
+    "photo" : null, 
+    "birthday" : {
+        "epoc" : NumberInt(1493577000), 
+        "formatted" : "01-05-2017", 
+        "jsdate" : "2017-04-30T18:30:00.000Z", 
+        "date" : {
+            "day" : NumberInt(1), 
+            "month" : NumberInt(5), 
+            "year" : NumberInt(2017)
+        }
+    }, 
+    "gender" : "1", 
+    "phone" : "8790145474", 
+    "address" : "sddsfds"
+}
